@@ -12,7 +12,7 @@
 
 <h1 align ="center">어서오시게나</h1>
 <h3 align="center">New to GitHub, but starting the Journey with a Bang</h3>
-<img align="right" alt="Coding" width="400" src="https://video-private-assets.canva.com/VAFoS2AJalI/v/4368098904.gif?exp=1720895220000&cf-ck=UZkuyJlnW5LDbYYnE4n_T5HVUAGp1i2heA6rlWwyee4&cf-sig=96kaMLqWSUG9X3sT_vk3LyuSOtCC_L7aSlDnu4ZXZ_w&cf-sig-kid=CO7cCjZ_YiI=&sig=Wc3-58nVoyFmfF_z_LOUKYdrlnNHBqgxmy3874RcwrM&sig-kid=GzFgFdhXD-Q=">
+<img align="right" alt="Coding" width="250" src="https://video-private-assets.canva.com/VAFRboJrg68/v/c9a5d15e1e.gif?exp=1720900380000&cf-ck=FSDN81a4z0aNbL0SK-DnN1K51KcJSsC4uGvV0buPVzI&cf-sig=MU4TfQJoUkRpEasv_CADlVwUOC5cOX2c5Jv-hY-eoDI&cf-sig-kid=CO7cCjZ_YiI=&sig=D6V22tDR0ijK-9odA4OzV2Yb5CHjS3dNZ2EcJYtni4Y&sig-kid=GzFgFdhXD-Q=">
 
 - Current Focus - **Frontend and Backend**
 
