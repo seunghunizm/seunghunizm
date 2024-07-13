@@ -1,9 +1,18 @@
-<img align="center" alt="Noot" src="https://c.tenor.com/VI0QRnHvsQsAAAAC/tenor.gif">
-<h1 align ="center">안녕하세요</h1>
-<h3 align="center">New to GitHub, but starting the Journey with a Bang</h3>
-<img align="right" alt="CodingGif" width="500" src="https://video-private-assets.canva.com/VAFRbsmoWwc/v/db540a253d.gif?exp=1720890240000&cf-ck=5461wbMLh_TG9Xtt6m_6PKJZ9M-jcOnpn5bWh3SdL98&cf-sig=p3NFa7-EaMlNfDIIbYaGPwjq17_qP6wEUvGBKOs4ww0&cf-sig-kid=CO7cCjZ_YiI=&sig=VQMQRpVbvZ5Jrt-fuGfc5JavC3_4Yog0nsZ4pzzW88k&sig-kid=GzFgFdhXD-Q=">
+<div id="header" align="center">
+  <img src="https://video-private-assets.canva.com/VAFRbsmoWwc/v/db540a253d.gif?exp=1720890240000&cf-ck=5461wbMLh_TG9Xtt6m_6PKJZ9M-jcOnpn5bWh3SdL98&cf-sig=p3NFa7-EaMlNfDIIbYaGPwjq17_qP6wEUvGBKOs4ww0&cf-sig-kid=CO7cCjZ_YiI=&sig=VQMQRpVbvZ5Jrt-fuGfc5JavC3_4Yog0nsZ4pzzW88k&sig-kid=GzFgFdhXD-Q=" width="150"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seunghunizm&label=Profile%20views&color=0e75b6&style=flat" alt="seunghunizm" /> </p>
+<div align="center">
+<a href="https://instagram.com/seunghunizm" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/018/930/415/small_2x/instagram-logo-instagram-icon-transparent-free-png.png" alt="seunghunizm" height="50" width="50" /></a>
+<a href="https://www.behance.net/seunghunizm" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" alt="seunghunizm" height="30" width="30" /></a>
+</div>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=seunghunizm&label=Profile%20views&color=0e75b6&style=flat" alt="seunghunizm" /> </p>
+
+<h1 align ="center">어서오시게나</h1>
+<h3 align="center">New to GitHub, but starting the Journey with a Bang</h3>
+<img align="right" alt="Coding" width="400" src="https://video-private-assets.canva.com/VAFoS2AJalI/v/4368098904.gif?exp=1720895220000&cf-ck=UZkuyJlnW5LDbYYnE4n_T5HVUAGp1i2heA6rlWwyee4&cf-sig=96kaMLqWSUG9X3sT_vk3LyuSOtCC_L7aSlDnu4ZXZ_w&cf-sig-kid=CO7cCjZ_YiI=&sig=Wc3-58nVoyFmfF_z_LOUKYdrlnNHBqgxmy3874RcwrM&sig-kid=GzFgFdhXD-Q=">
 
 - Current Focus - **Frontend and Backend**
 
@@ -15,15 +24,25 @@
 
 - Contact info **seunghunizm@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seunghunizm&show_icons=true&locale=en&layout=compact" alt="seunghunizm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seunghunizm&show_icons=true&locale=en" alt="seunghunizm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seunghunizm&" alt="seunghunizm" /></p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghunizm&hide=less,scss,hack&show_icons=true&theme=dark&layout=compact&langs_count=8" alt="seunghunizm GitHub stats"/>
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seunghunizm&theme=dark" alt="seunghunizm GitHub profile summary"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=seunghunizm&count_private=true&count_public=true&show_icons=true&&theme=dark&include_all_commits=true" alt="seunghunizm GitHub stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=seunghunizm&theme=dark" alt="seunghunizm GitHub streak stats"/>
+    </td>
+  </tr>
+</table>
