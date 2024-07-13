@@ -1,4 +1,4 @@
-[![MasterHead]([![image](https://github.com/user-attachments/assets/3698b4cd-ba35-4cef-a409-f570240a51ea)](https://i.kym-cdn.com/entries/icons/original/000/040/642/terrifiednootnoot.jpg))]
+<img align="center" alt="Noot" width="600" src="https://i.kym-cdn.com/entries/icons/original/000/040/642/terrifiednootnoot.jpg">
 <h1 align ="center">안녕하세요</h1>
 <h3 align="center">New to GitHub, but starting the Journey with a Bang</h3>
 <img align="right" alt="CodingGif" width="600" src="https://video-private-assets.canva.com/VAFRbsmoWwc/v/db540a253d.gif?exp=1720890240000&cf-ck=5461wbMLh_TG9Xtt6m_6PKJZ9M-jcOnpn5bWh3SdL98&cf-sig=p3NFa7-EaMlNfDIIbYaGPwjq17_qP6wEUvGBKOs4ww0&cf-sig-kid=CO7cCjZ_YiI=&sig=VQMQRpVbvZ5Jrt-fuGfc5JavC3_4Yog0nsZ4pzzW88k&sig-kid=GzFgFdhXD-Q=">
