@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align ="center">안녕하세요</h1>
 <h3 align="center">New to GitHub, but starting the Journey with a Bang</h3>
-<img align="right" alt="Coding" width="400" src="https://video-private-assets.canva.com/VAFRbsmoWwc/v/db540a253d.gif?exp=1720890240000&cf-ck=5461wbMLh_TG9Xtt6m_6PKJZ9M-jcOnpn5bWh3SdL98&cf-sig=p3NFa7-EaMlNfDIIbYaGPwjq17_qP6wEUvGBKOs4ww0&cf-sig-kid=CO7cCjZ_YiI=&sig=VQMQRpVbvZ5Jrt-fuGfc5JavC3_4Yog0nsZ4pzzW88k&sig-kid=GzFgFdhXD-Q=">
+<img align="right" alt="CodingGif" width="800" src="https://video-private-assets.canva.com/VAFRbsmoWwc/v/db540a253d.gif?exp=1720890240000&cf-ck=5461wbMLh_TG9Xtt6m_6PKJZ9M-jcOnpn5bWh3SdL98&cf-sig=p3NFa7-EaMlNfDIIbYaGPwjq17_qP6wEUvGBKOs4ww0&cf-sig-kid=CO7cCjZ_YiI=&sig=VQMQRpVbvZ5Jrt-fuGfc5JavC3_4Yog0nsZ4pzzW88k&sig-kid=GzFgFdhXD-Q=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seunghunizm&label=Profile%20views&color=0e75b6&style=flat" alt="seunghunizm" /> </p>
 
