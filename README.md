@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://instagram.com/seunghunizm" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/018/930/415/small_2x/instagram-logo-instagram-icon-transparent-free-png.png" alt="seunghunizm" height="50" width="50" /></a>
-<a href="https://www.behance.net/seunghunizm" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" alt="seunghunizm" height="30" width="30" /></a>
+<a href="https://open.spotify.com/user/31pg7v6abmnbu3gropx7vf7srifm" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" alt="seunghunizm" height="30" width="30" /></a>
 </div>
 
 
