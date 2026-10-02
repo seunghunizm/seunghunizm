@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="44" viewBox="0 0 830 44" role="img" aria-label="Focus">
+<title>Focus</title>
+<style>
+.serif{font-family:'Iowan Old Style','Charter','Georgia','Times New Roman',serif}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.eyebrow{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:11px;font-weight:600;letter-spacing:2.6px}
+.rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}}
+</style>
+
+<text x="0" y="28" class="sans" font-size="13" font-weight="600" fill="#8D8B85" letter-spacing="1">01</text>
+<line x1="30" y1="23.5" x2="58" y2="23.5" stroke="rgba(240,246,252,0.24)"/>
+<text x="70" y="28" class="eyebrow" fill="#F2F1ED" font-size="12">FOCUS</text>
+<line x1="139" y1="23.5" x2="830" y2="23.5" stroke="rgba(240,246,252,0.10)"/>
+
+</svg>

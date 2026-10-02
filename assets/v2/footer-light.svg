@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="210" viewBox="0 0 830 210" role="img" aria-label="Footer">
+<title>Footer</title>
+<style>
+.serif{font-family:'Iowan Old Style','Charter','Georgia','Times New Roman',serif}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.eyebrow{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:11px;font-weight:600;letter-spacing:2.6px}
+.rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}}
+</style>
+
+<defs><clipPath id="c"><rect x="0" y="0" width="830" height="210"/></clipPath></defs>
+<line x1="0" y1="0.5" x2="830" y2="0.5" stroke="rgba(20,20,20,0.08)"/>
+<text x="0" y="38" class="eyebrow" fill="#B8B6AE">© 2026 SEUNG HUN LEE</text>
+<text x="830" y="38" text-anchor="end" class="eyebrow" fill="#B8B6AE">UI / UX · FRONT-END</text>
+<g clip-path="url(#c)">
+  <text x="415.0" y="214" text-anchor="middle" class="serif" font-size="132" font-weight="700" fill="rgba(20,20,20,0.05)" letter-spacing="-3" textLength="850" lengthAdjust="spacingAndGlyphs">SEUNGHUNIZM</text>
+</g>
+
+</svg>
